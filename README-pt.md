@@ -36,7 +36,7 @@
 [![Discord: Huesos#0519](https://img.shields.io/badge/-Huesos%230519-4266e5?style=flat&labelColor=0D0D0D&logo=Discord&Color=white)](#)
 
 ## Sobre o Repositório JorgeFBMoreira
-Este repositório é o resumo do meu perfil do Github.
+Este repositório resume o meu perfil do Github.
 
 [![Repository Watchers](https://img.shields.io/github/watchers/JorgeFBMoreira/JorgeFBMoreira?style=flat&labelColor=0D0D0D&logo=Github&Color=white)](#) &nbsp;
 [![Repository Stars](https://img.shields.io/github/stars/JorgeFBMoreira/JorgeFBMoreira?style=flat&labelColor=0D0D0D&logo=Github&color=orange)](#)
