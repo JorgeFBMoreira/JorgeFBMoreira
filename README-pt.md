@@ -2,6 +2,9 @@
   Ola, sou o Jorge Moreira e Bem-Vindo ao meu Perfil! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px" alt="Wave Hand">
 </h1>
 
+<table>
+  <tr><td><a href="README.md">English</a></td><td><a href="README-pt.md">Português</a></td></tr>
+</table>
 
 * 🚀 Sou de Portugal!
 * 💻 Estou à procura de um estágio ou emprego como Desenvolvedor Web
