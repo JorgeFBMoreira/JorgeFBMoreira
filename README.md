@@ -20,7 +20,7 @@
 
 ## About my Github Profile
 
-![JorgeFBMoreira's Profile Stats](https://github-readme-stats.vercel.app/api?username=JorgeFBMoreira&theme=vision-friendly-dark&show_icons=true) ![JorgeFBMoreira's Programming Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=JorgeFBMoreira&layout=compact&count_private=true&hide_border=true&theme=vision-friendly-dark&show_icons=true")
+![JorgeFBMoreira's Profile Stats](https://github-readme-stats.vercel.app/api?username=JorgeFBMoreira&theme=vision-friendly-dark&show_icons=true) &nbsp; &nbsp; ![JorgeFBMoreira's Programming Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=JorgeFBMoreira&layout=compact&count_private=true&hide_border=true&theme=vision-friendly-dark&show_icons=true")
 
 [![Followers Github](https://img.shields.io/github/followers/JorgeFBMoreira?style=flat&labelColor=0D0D0D&logo=Github&Color=white)](#)
 [![User Github Stars](https://img.shields.io/github/stars/JorgeFBMoreira?style=flat&labelColor=0D0D0D&logo=Github&Color=white&affiliations=OWNER%2CCOLLABORATOR)](#)
