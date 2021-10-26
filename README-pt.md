@@ -8,7 +8,7 @@
 
 * 🚀 Sou de Portugal!
 * 💻 Estou à procura de um estágio ou emprego como Desenvolvedor Web
-* 📕 Estou a aprender linguagens modernas de programação como Node.js e React.js
+* 📕 Estou a aprender linguagens modernas como Node.js e React.js
 * ⭐ Estou disponível para tele-trabalho!
 
 ## Linguagens e Ferramentas:
