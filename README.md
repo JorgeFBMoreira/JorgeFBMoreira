@@ -39,5 +39,4 @@
 ## About JorgeFBMoreira Repository
 This repository summarize my github profile. 
 
-[![Repository Watchers](https://img.shields.io/github/watchers/JorgeFBMoreira/JorgeFBMoreira?style=flat&labelColor=0D0D0D&logo=Github&Color=white)](#) &nbsp;
 [![Repository Stars](https://img.shields.io/github/stars/JorgeFBMoreira/JorgeFBMoreira?style=flat&labelColor=0D0D0D&logo=Github&color=orange)](#)
