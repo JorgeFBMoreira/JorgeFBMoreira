@@ -3,7 +3,7 @@
 </h1>
 
 <table>
-  <tr><td><a href="README.md">English</a></td><td><a href="readme-pt.md">Português</a></td></tr>
+  <tr><td><a href="README.md">English</a></td><td><a href="README-pt.md">Português</a></td></tr>
 </table>
 
 * 🚀 I'm from Portugal!
