@@ -1,5 +1,5 @@
 <h1 align="center">
-  Ola, sou o Jorge Moreira e Bem-Vindo ao meu Perfil! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px" alt="Wave Hand">
+  Olá, sou o Jorge Moreira e Bem-Vindo ao meu Perfil! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px" alt="Wave Hand">
 </h1>
 
 <table>
