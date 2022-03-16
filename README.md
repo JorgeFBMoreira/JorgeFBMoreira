@@ -23,6 +23,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40" /> &nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React.js" width="40" height="40" /> &nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40" /> &nbsp;
+
 <br>
 
 
@@ -32,6 +33,7 @@
 
 [![Followers Github](https://img.shields.io/github/followers/JorgeFBMoreira?style=flat&labelColor=0D0D0D&logo=Github&Color=white)](#)
 [![User Github Stars](https://img.shields.io/github/stars/JorgeFBMoreira?style=flat&labelColor=0D0D0D&logo=Github&Color=white&affiliations=OWNER%2CCOLLABORATOR)](#)
+
 <br>
 
 
