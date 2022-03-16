@@ -2,14 +2,18 @@
   Olá, sou o Jorge Moreira e Bem-Vindo ao meu Perfil! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px" alt="Wave Hand">
 </h1>
 
-<table>
+<table align="center">
   <tr><td><a href="README.md">English</a></td><td><a href="README-pt.md">Português</a></td></tr>
 </table>
+<br>
 
 * 🚀 Sou de Portugal!
 * 💻 Estou à procura de um estágio ou emprego como Desenvolvedor Web
 * 📕 Estou a aprender linguagens modernas como Node.js e React.js
 * ⭐ Estou disponível para tele-trabalho!
+
+<br>
+
 
 ## Linguagens e Ferramentas:
 
@@ -21,6 +25,9 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React.js" width="40" height="40" /> &nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40" /> &nbsp;
 
+<br>
+
+
 ## Sobre o meu Perfil no Github
 
 ![JorgeFBMoreira's Profile Stats](https://github-readme-stats.vercel.app/api?username=JorgeFBMoreira&theme=vision-friendly-dark&show_icons=true) &nbsp; &nbsp; ![JorgeFBMoreira's Programming Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=JorgeFBMoreira&layout=compact&count_private=true&hide_border=true&theme=vision-friendly-dark&show_icons=true")
@@ -29,6 +36,7 @@
 [![User Github Stars](https://img.shields.io/github/stars/JorgeFBMoreira?style=flat&labelColor=0D0D0D&logo=Github&Color=white&affiliations=OWNER%2CCOLLABORATOR)](#)
 
 <br>
+
 
 ## Contactos:
 [![Rocketseat Profile](https://img.shields.io/badge/🚀-Rocketseat-9300ef?style=flat&labelColor=0D0D0D)](https://app.rocketseat.com.br/me/jorge-moreira) &nbsp;
