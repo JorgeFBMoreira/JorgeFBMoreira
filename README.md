@@ -2,7 +2,7 @@
   Hi there, I'm Jorge Moreira and Welcome to my Profile! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px" alt="Wave Hand">
 </h1>
 
-<table>
+<table align="center">>
   <tr><td><a href="README.md">English</a></td><td><a href="README-pt.md">Português</a></td></tr>
 </table>
 
