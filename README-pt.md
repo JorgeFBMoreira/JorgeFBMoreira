@@ -42,6 +42,6 @@
 
 
 ## Contactos:
-[![Perfil na Rocketseat](https://img.shields.io/badge/🚀-Rocketseat-9300ef?style=flat&labelColor=0D0D0D)](https://app.rocketseat.com.br/me/jorge-moreira) &nbsp;
+[![Perfil na Rocketseat](https://img.shields.io/badge/%F0%9F%9A%80%20Rocketseat-Rocketseat%20--%20Jorge%20Moreira-9300ef?style=flat&labelColor=0d0d0d)](https://app.rocketseat.com.br/me/jorge-moreira) &nbsp;
 [![Perfil no LinkedIn](https://img.shields.io/badge/-Jorge%20Moreira-0a66c2?style=flat&labelColor=0D0D0D&logo=Linkedin&Color=white)](https://www.linkedin.com/in/jorge-moreira-65123521a/) &nbsp;
 [![Discord: Huesos#0001](https://img.shields.io/badge/-Huesos%230001-4266e5?style=flat&labelColor=0D0D0D&logo=Discord&Color=white)](#)
