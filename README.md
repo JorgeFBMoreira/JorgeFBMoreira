@@ -3,15 +3,17 @@
 </h1>
 
 <table align="center">
-  <tr><td><a href="README.md">English</a></td><td><a href="README-pt.md">Português</a></td></tr>
+  <tr><td><a href="README.md">English</a></td><td><a href="README-pt.md">Portuguese</a></td></tr>
 </table>
 <br>
 
 * 🚀 I'm from Portugal!
-* 💻 I'm currencly looking for a intership or work as Web Developer
-* 📕 I'm learning modern programming languages such as Node.js and React.js
-* ⭐ I'm available for work in the home office mode!
+* 💻 I'm currently looking for a internship or work as Web Developer or Designer
+* 📕 I'm learning modern frameworks such as NodeJS and React
+* ⭐ I'm available to remote work!
+
 <br>
+
 
 
 ## Languages and Tools:
@@ -27,6 +29,7 @@
 <br>
 
 
+
 ## About my Github Profile
 
 ![JorgeFBMoreira's Profile Stats](https://github-readme-stats.vercel.app/api?username=JorgeFBMoreira&theme=vision-friendly-dark&show_icons=true) &nbsp; &nbsp; ![JorgeFBMoreira's Programming Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=JorgeFBMoreira&layout=compact&count_private=true&hide_border=true&theme=vision-friendly-dark&show_icons=true")
@@ -37,14 +40,9 @@
 <br>
 
 
+
 ## Contact and Connect with me
 
 [![Rocketseat Profile](https://img.shields.io/badge/🚀-Rocketseat-9300ef?style=flat&labelColor=0D0D0D)](https://app.rocketseat.com.br/me/jorge-moreira) &nbsp;
 [![LinkedIn Profile](https://img.shields.io/badge/-Jorge%20Moreira-0a66c2?style=flat&labelColor=0D0D0D&logo=Linkedin&Color=white)](https://www.linkedin.com/in/jorge-moreira-65123521a/) &nbsp;
-[![Discord: Huesos#0074](https://img.shields.io/badge/-Huesos%231864-4266e5?style=flat&labelColor=0D0D0D&logo=Discord&Color=white)](#)
-
-
-## About JorgeFBMoreira Repository
-This repository summarize my github profile. 
-
-[![Repository Stars](https://img.shields.io/github/stars/JorgeFBMoreira/JorgeFBMoreira?style=flat&labelColor=0D0D0D&logo=Github&color=orange)](#)
+[![Discord: Huesos#0001](https://img.shields.io/badge/-Huesos%230001-4266e5?style=flat&labelColor=0D0D0D&logo=Discord&Color=white)](#)

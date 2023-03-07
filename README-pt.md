@@ -3,16 +3,17 @@
 </h1>
 
 <table align="center">
-  <tr><td><a href="README.md">English</a></td><td><a href="README-pt.md">Português</a></td></tr>
+  <tr><td><a href="README.md">Inglês</a></td><td><a href="README-pt.md">Português</a></td></tr>
 </table>
 <br>
 
 * 🚀 Sou de Portugal!
-* 💻 Estou à procura de um estágio ou emprego como Desenvolvedor Web
-* 📕 Estou a aprender linguagens modernas como Node.js e React.js
+* 💻 Estou à procura de um estágio ou emprego como Desenvolvedor Web (Web Developer) ou Designer
+* 📕 Estou a aprender frameworks modernos como Nodejs e React
 * ⭐ Estou disponível para tele-trabalho!
 
 <br>
+
 
 
 ## Linguagens e Ferramentas:
@@ -28,22 +29,19 @@
 <br>
 
 
+
 ## Sobre o meu Perfil no Github
 
-![JorgeFBMoreira's Profile Stats](https://github-readme-stats.vercel.app/api?username=JorgeFBMoreira&theme=vision-friendly-dark&show_icons=true) &nbsp; &nbsp; ![JorgeFBMoreira's Programming Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=JorgeFBMoreira&layout=compact&count_private=true&hide_border=true&theme=vision-friendly-dark&show_icons=true")
+![Estatos de JorgeFBMoreira](https://github-readme-stats.vercel.app/api?username=JorgeFBMoreira&theme=vision-friendly-dark&show_icons=true) &nbsp; &nbsp; ![Estatos de Programação de JorgeFBMoreira](https://github-readme-stats.vercel.app/api/top-langs/?username=JorgeFBMoreira&layout=compact&count_private=true&hide_border=true&theme=vision-friendly-dark&show_icons=true")
 
-[![Followers Github](https://img.shields.io/github/followers/JorgeFBMoreira?style=flat&labelColor=0D0D0D&logo=Github&Color=white)](#)
-[![User Github Stars](https://img.shields.io/github/stars/JorgeFBMoreira?style=flat&labelColor=0D0D0D&logo=Github&Color=white&affiliations=OWNER%2CCOLLABORATOR)](#)
+[![Seguidores no Github](https://img.shields.io/github/followers/JorgeFBMoreira?style=flat&labelColor=0D0D0D&logo=Github&Color=white)](#)
+[![Estrelas no GitHub](https://img.shields.io/github/stars/JorgeFBMoreira?style=flat&labelColor=0D0D0D&logo=Github&Color=white&affiliations=OWNER%2CCOLLABORATOR)](#)
 
 <br>
 
 
+
 ## Contactos:
-[![Rocketseat Profile](https://img.shields.io/badge/🚀-Rocketseat-9300ef?style=flat&labelColor=0D0D0D)](https://app.rocketseat.com.br/me/jorge-moreira) &nbsp;
-[![LinkedIn Profile](https://img.shields.io/badge/-Jorge%20Moreira-0a66c2?style=flat&labelColor=0D0D0D&logo=Linkedin&Color=white)](https://www.linkedin.com/in/jorge-moreira-65123521a/) &nbsp;
-[![Discord: Huesos#0074](https://img.shields.io/badge/-Huesos%231864-4266e5?style=flat&labelColor=0D0D0D&logo=Discord&Color=white)](#)
-
-## Sobre o Repositório JorgeFBMoreira
-Este repositório resume o meu perfil do Github.
-
-[![Repository Stars](https://img.shields.io/github/stars/JorgeFBMoreira/JorgeFBMoreira?style=flat&labelColor=0D0D0D&logo=Github&color=orange)](#)
+[![Perfil na Rocketseat](https://img.shields.io/badge/🚀-Rocketseat-9300ef?style=flat&labelColor=0D0D0D)](https://app.rocketseat.com.br/me/jorge-moreira) &nbsp;
+[![Perfil no LinkedIn](https://img.shields.io/badge/-Jorge%20Moreira-0a66c2?style=flat&labelColor=0D0D0D&logo=Linkedin&Color=white)](https://www.linkedin.com/in/jorge-moreira-65123521a/) &nbsp;
+[![Discord: Huesos#0001](https://img.shields.io/badge/-Huesos%230001-4266e5?style=flat&labelColor=0D0D0D&logo=Discord&Color=white)](#)
